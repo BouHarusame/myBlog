@@ -18,7 +18,7 @@ hero:
 
 features:
   - icon: ⚡️
-    title: Composition API
+    title: 前端学习技术博客
     details: yes...
   - icon: 🖖
     title: 全面拥抱 Typescript
