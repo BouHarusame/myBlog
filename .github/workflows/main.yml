@@ -24,7 +24,7 @@ jobs:
 
       # 2、部署到 GitHub Pages
       - name: Deploy
-        uses: BouHarusame/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           REPOSITORY_NAME: BouHarusame/BouHarusame.github.io
